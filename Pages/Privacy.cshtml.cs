@@ -19,6 +19,7 @@ namespace azure_web_app_simple.Pages
 
         public void OnGet()
         {
+            
         }
     }
 }
